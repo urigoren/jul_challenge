@@ -18,8 +18,6 @@ These predictions would be regarded as a product recommendation in this context.
 1. Launch `jupyter notebook` and browse
 1. Run `submission.ipynb` and follow the instructions
 
-## Submission
-Follow the instructions on `submission.ipynb`
 
 ## The prizes
 Top achievers on the [leaderboard](http://leaderboard.argmax.ml/jul), would be awarded free tickets to [recomday.ml](http://recomday.ml), Israel's first recommender systems workshop day.
